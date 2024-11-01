@@ -47,4 +47,5 @@ This project was designed to address the following analysis goals:
 ## 1. Average Income per Purchase
 
 ## Pivot Table
+![Avg Income per purchase](https://github.com/user-attachments/assets/0108c76f-e73b-4fdd-9a7e-1d522d8bf802)
 
