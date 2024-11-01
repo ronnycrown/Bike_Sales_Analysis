@@ -20,3 +20,13 @@ The dataset includes the following key columns:
   12. Age
   13. Age Brackets
   14. Purchased Bike
+
+## Project Objectives
+This project was designed to address the following analysis goals:
+
+- Average income per purchase: Determine the income of various buyers based on their gender.
+- Age brackets: Determine the age brackets of each buyer.
+- Customer Commute: Determine the commute distance of each buyer.
+
+##
+``` Commute distance for each purchase.
