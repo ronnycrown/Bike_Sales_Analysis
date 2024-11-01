@@ -43,7 +43,8 @@ This project was designed to address the following analysis goals:
   3. Line Chart with markers for the Customer Age Bracket.
 
 # Visual Analysis and Inference
-1. Average Income per Purchase
+
+## 1. Average Income per Purchase
 
 ## Pivot Table
 
