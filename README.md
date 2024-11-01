@@ -26,8 +26,24 @@ The dataset includes the following key columns:
 ## Project Objectives
 This project was designed to address the following analysis goals:
 
-- Average income per purchase: Determine the income of various buyers based on their gender.
-- Age brackets: Determine the age brackets of each buyer.
+- Average Income Per Purchase: Determine the income of various buyers based on their gender.
+- Age Brackets: Determine the age brackets of each buyer.
 - Customer Commute: Determine the commute distance of each buyer.
 
-##
+## Key Metrics
+- Average: Average of income, grouped by gender.
+- Age: Count of purchased bikes, grouped by age brackets.
+- Commute: Count of purchased bikes, grouped by miles covered.
+
+## Tools and Methods Used
+- Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
+- Data Visualization: Different charts were created in Excel to visually represent the key insights.
+  1. Clustered Column Chart for the Average Income per Purchase.
+  2. Line Chart for the Customer Commute.
+  3. Line Chart with markers for the Customer Age Bracket.
+
+# Visual Analysis and Inference
+1. Average Income per Purchase
+
+## Pivot Table
+
