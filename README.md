@@ -49,3 +49,26 @@ This project was designed to address the following analysis goals:
 ## Pivot Table
 ![Avg Income per purchase](https://github.com/user-attachments/assets/0108c76f-e73b-4fdd-9a7e-1d522d8bf802)
 
+## Average Income Chart
+![avg income chart](https://github.com/user-attachments/assets/f8002bd9-fdd5-4612-8807-58d51bd640dc)
+
+## 2. Customer Age Brackets
+
+## Pivot Table
+![age bracket](https://github.com/user-attachments/assets/7d189c8e-a97b-4474-9a82-ff60c82b4680)
+
+## Customer Age Chart
+![age bracket chart](https://github.com/user-attachments/assets/9381675a-c4c1-4086-a477-5da7eb53dfae)
+
+## 3. Customer Commute
+
+## Pivot Table
+![Customer commute](https://github.com/user-attachments/assets/56256679-01ea-4c08-9cb9-009bc5b32381)
+
+## Customer Commute Chart
+![customer commute chart](https://github.com/user-attachments/assets/4efa3734-3b86-43fc-a197-7b84e1366b0e)
+
+
+
+
+
