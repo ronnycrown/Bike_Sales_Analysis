@@ -68,6 +68,9 @@ This project was designed to address the following analysis goals:
 ## Customer Commute Chart
 ![customer commute chart](https://github.com/user-attachments/assets/4efa3734-3b86-43fc-a197-7b84e1366b0e)
 
+## 4. Bike Sales Dashboard
+![bike sales dashboard](https://github.com/user-attachments/assets/b86f68fc-4fa9-4f82-9b55-6ae6bbb4bd25)
+
 
 
 
