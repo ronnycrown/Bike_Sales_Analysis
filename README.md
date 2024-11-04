@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project collects and analyses bike buyers from various regions, of various educational degrees and occupations. The goal is to provide insights into average income per purchase, customer age brackets and customer commute distance. 
+This project collects and analyses bike sales from various regions, of various educational degrees and occupations. The goal is to provide insights into average income per purchase, customer age brackets and customer commute distance. 
 
 ## Data Collected
 
