@@ -1,4 +1,4 @@
-# Bike Buyers Analysis Project
+# Bike Sales Analysis Project
 
 
 ## Overview
